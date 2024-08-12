@@ -2,7 +2,7 @@
 
 Meu nome é Matheus Mauricio
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript, Python e futuramente C++ ou c#
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
